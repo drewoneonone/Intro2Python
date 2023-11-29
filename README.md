@@ -1,3 +1,1 @@
-# Intro2Python
-# Intro2Python
-# Intro2Python
+My first example of python
